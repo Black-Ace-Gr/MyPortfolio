@@ -1,0 +1,1 @@
+web: gunicorn gregory_otieno.wsgi
