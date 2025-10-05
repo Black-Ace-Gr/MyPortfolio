@@ -32,7 +32,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'localhost',
-    'gregory_otieno_ace.onrender.com'
+    'gregory_otieno_ace.onrender.com',
+    'gregory-otieno-ace.onrender.com'
 ]
 
 
